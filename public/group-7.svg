@@ -1,0 +1,20 @@
+<svg width="816" height="726" viewBox="0 0 816 726" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_df_866_1191)">
+<path d="M60.2068 609.76L8.06181 593.827C7.4942 593.653 7.20701 593.014 7.43865 592.467C84.775 410.024 128.589 303.16 200.501 194.499C212.479 170.225 312.051 155.075 430.219 129.431C431.258 129.206 431.864 130.572 431.029 131.229C249.019 274.669 176.251 389.767 61.3903 609.257C61.1672 609.683 60.6669 609.9 60.2068 609.76Z" fill="#94C256" fill-opacity="0.3"/>
+<path d="M138.752 617.557C121.968 621.223 113.687 620.135 102.273 612.06C101.838 611.753 101.731 611.143 102.023 610.697C280.249 337.634 434.856 213.644 754.504 59.205C755.344 58.7994 756.264 59.6466 755.883 60.4976L649.15 299.165C649.053 299.382 648.877 299.56 648.662 299.662C462.231 388.313 364.582 427.469 139.189 617.342C139.065 617.446 138.91 617.523 138.752 617.557Z" fill="#94C256" fill-opacity="0.3"/>
+<path d="M586.814 421.774C408.667 484.644 317.861 529.89 176.899 628.179C176.183 628.678 176.394 629.807 177.247 629.992C313.287 659.515 428.08 683.628 470.502 650.504C516.255 608.113 542.299 528.999 588.086 423.12C588.432 422.319 587.637 421.484 586.814 421.774Z" fill="#94C256" fill-opacity="0.3"/>
+</g>
+<defs>
+<filter id="filter0_df_866_1191" x="-51.7416" y="0.000587463" width="866.813" height="725.578" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="10" dy="4"/>
+<feGaussianBlur stdDeviation="14.4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.580392 0 0 0 0 0.760784 0 0 0 0 0.337255 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_866_1191"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_866_1191" result="shape"/>
+<feGaussianBlur stdDeviation="29.55" result="effect2_foregroundBlur_866_1191"/>
+</filter>
+</defs>
+</svg>

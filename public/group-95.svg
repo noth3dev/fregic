@@ -1,0 +1,20 @@
+<svg width="868" height="686" viewBox="0 0 868 686" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_df_875_1418)">
+<path d="M112.207 609.76L60.0618 593.827C59.4942 593.653 59.207 593.014 59.4386 592.467C136.775 410.024 180.589 303.16 252.501 194.499C264.479 170.225 364.051 155.075 482.219 129.431C483.258 129.206 483.864 130.572 483.029 131.229C301.019 274.669 228.251 389.767 113.39 609.257C113.167 609.683 112.667 609.9 112.207 609.76Z" fill="#94C256" fill-opacity="0.3"/>
+<path d="M190.752 617.557C173.968 621.223 165.687 620.135 154.273 612.06C153.838 611.753 153.731 611.143 154.023 610.697C332.249 337.634 486.856 213.644 806.504 59.205C807.344 58.7994 808.264 59.6466 807.883 60.4976L701.15 299.165C701.053 299.382 700.877 299.56 700.662 299.662C514.231 388.313 416.582 427.469 191.189 617.342C191.065 617.446 190.91 617.523 190.752 617.557Z" fill="#94C256" fill-opacity="0.3"/>
+<path d="M638.814 421.774C460.667 484.643 369.861 529.889 228.899 628.178C228.183 628.678 228.394 629.806 229.247 629.991C365.287 659.515 480.08 683.628 522.502 650.504C568.255 608.113 594.299 528.998 640.086 423.12C640.432 422.318 639.637 421.483 638.814 421.774Z" fill="#94C256" fill-opacity="0.3"/>
+</g>
+<defs>
+<filter id="filter0_df_875_1418" x="0.2584" y="0.000587463" width="866.813" height="725.578" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="10" dy="4"/>
+<feGaussianBlur stdDeviation="14.4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.580392 0 0 0 0 0.760784 0 0 0 0 0.337255 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_875_1418"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_875_1418" result="shape"/>
+<feGaussianBlur stdDeviation="29.55" result="effect2_foregroundBlur_875_1418"/>
+</filter>
+</defs>
+</svg>
